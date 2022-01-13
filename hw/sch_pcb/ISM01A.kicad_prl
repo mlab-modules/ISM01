@@ -2,6 +2,7 @@
   "board": {
     "active_layer": 36,
     "active_layer_preset": "",
+    "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -37,7 +38,6 @@
       9,
       10,
       11,
-      12,
       13,
       14,
       15,
@@ -51,19 +51,18 @@
       23,
       24,
       25,
-      26,
-      27,
-      28,
-      29,
-      30,
+      34,
+      35,
+      36,
       37,
       38
     ],
-    "visible_layers": "003f0f4_80000000"
+    "visible_layers": "003f0f4_80000000",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "ISM01A.kicad_prl",
-    "version": 2
+    "version": 3
   },
   "project": {
     "files": []
