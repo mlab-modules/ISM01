@@ -1,0 +1,42 @@
+description: Universal sub GHz ISM band transceiver MCU.
+github_branch: ISM01A
+github_repo: ISM01
+github_url: https://github.com/mlab-modules/ISM01
+homepage: true
+images:
+- doc/img/20191128_005455.jpg
+- doc/img/20191128_005344.jpg
+- doc/assets/graphics/images/Li-ion-Charger.jpg
+- doc/assets/graphics/images/MLAB_mosaic.jpg
+- doc/assets/graphics/images/RMDS02E.jpg
+- doc/assets/graphics/images/ACOUNTER01A.jpg
+- doc/assets/graphics/images/RSMS01B.JPG
+- doc/gen/img/ISM01A-bottom.png
+- doc/gen/img/ISM01A-top.png
+- doc/img/ISM01A_bot_big.png
+- doc/img/ISM01A_top_big.png
+- doc/img/ISM01A_QRcode.png
+- doc/assets/graphics/logo_MLAB_long.png
+- doc/assets/graphics/logo_MLAB_short.png
+- doc/assets/graphics/images/DIVISEK01.png
+- doc/assets/graphics/powered_by_MLAB.svg
+- doc/assets/graphics/logo_MLAB_long.svg
+- doc/assets/graphics/MLAB_inside.svg
+- doc/assets/graphics/logo_MLAB_short.svg
+- doc/assets/templates/Fritzing/basic_pbutton.svg
+- doc/assets/templates/Fritzing/generic-male-header_bread_3.svg
+- doc/assets/templates/Fritzing/usb_connector.svg
+- doc/assets/templates/Fritzing/generic-male-header_bread_2x3.svg
+- doc/assets/templates/Fritzing/generic-male-header_bread_2x8.svg
+- doc/assets/templates/Fritzing/generic-male-header_bread_2.svg
+- doc/assets/templates/Fritzing/generic_male_pin_header_1_100mil_bread.svg
+- doc/assets/templates/Fritzing/generic-male-header_bread_8.svg
+- doc/assets/templates/Fritzing/src/M3.svg
+mark: 50
+tags:
+- sik
+- datalink
+- radio
+- communication
+- mavlink
+title: ISM01
