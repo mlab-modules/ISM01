@@ -19,9 +19,9 @@
 
 <!--- ELead ---> 
 
-![Top view on ISM01A](/doc/img/ISM01A_top_big.png)
+![Top view on ISM01A](doc/img/ISM01A_top_big.png)
 
-![Bottom view on ISM01A](/doc/img/ISM01A_bot_big.png)
+![Bottom view on ISM01A](doc/img/ISM01A_bot_big.png)
 
 <!--- Description --->
 
