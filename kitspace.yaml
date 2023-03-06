@@ -1,0 +1,7 @@
+bom: ''
+eda:
+  pcb: hw/sch_pcb/ISM01.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/ISM01
+summary: Universal sub GHz ISM band transceiver MCU.
