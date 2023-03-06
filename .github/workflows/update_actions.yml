@@ -19,7 +19,9 @@ jobs:
           
       - name: Update submodules
         run: |
-          git submodule update --remote doc/assets/
+          git -C doc/assets config remote.origin.fetch '+refs/heads/*:refs/remotes/origin/*'
+          git submodule sync doc/assets
+          git submodule update --init --remote doc/assets
     
       - name: Zaktualizovat skripty
         run: |
