@@ -1,4 +1,7 @@
-description: Universal sub GHz ISM band transceiver MCU.
+description: The MLAB ISM01A is a high-performance wireless transceiver module based
+  on the Si4463 chip. It operates on 433 or 868 MHz frequencies, ideal for robust,
+  long-distance data transmission in applications like remote control, data links,
+  and wireless sensor networks.
 github_branch: ISM01A
 github_branches:
 - ISM01A
@@ -30,4 +33,8 @@ tags:
 - kicad-project
 - mlab-kicad
 - pcb
+- ezradiopro
+- si4463
+- mlab-rf
+- siliconlabs
 title: ISM01

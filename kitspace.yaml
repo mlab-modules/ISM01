@@ -4,4 +4,7 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/ISM01
-summary: Universal sub GHz ISM band transceiver MCU.
+summary: The MLAB ISM01A is a high-performance wireless transceiver module based on
+  the Si4463 chip. It operates on 433 or 868 MHz frequencies, ideal for robust, long-distance
+  data transmission in applications like remote control, data links, and wireless
+  sensor networks.
