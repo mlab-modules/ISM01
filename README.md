@@ -19,7 +19,7 @@ ISM01A can operate on the open 433 or 868 MHz frequencies, which are popular in 
 - Status indication: Two LED diodes controlled from the Si chip
 - Antenna connectors: MCX for RX and TX antennas. For bidirectional communication with a single antenna, it is necessary to connect the [RFSWITCH module](www.mlab.cz/module/RFSWITCH01/), which serves as an RF switch and enables MIMO 2x2 support. ISM01A is able to control RFSWITCH module trought GPIO pins
 
-## Possible Applications and Users
+## Possible Applications
 
 The MLAB ISM01A module with the Si4463 transceiver is suitable for a wide range of applications. It can be used in areas such as:
 
