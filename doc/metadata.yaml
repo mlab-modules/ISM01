@@ -8,7 +8,7 @@ github_branches:
 github_repo: ISM01
 github_url: https://github.com/mlab-modules/ISM01
 homepage: true
-image: doc/img/20191128_005455.jpg
+title_image: doc/img/ISM01A_top_big.png
 images:
 - doc/img/20191128_005455.jpg
 - doc/img/20191128_005344.jpg
@@ -19,7 +19,7 @@ images:
 - doc/gen/img/ISM01A-bottom.png
 - doc/gen/img/ISM01A-top.svg
 issues: 5
-mark: 50
+mark: 80
 tags:
 - sik
 - datalink
