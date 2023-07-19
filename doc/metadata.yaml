@@ -7,8 +7,8 @@ github_url: https://github.com/mlab-modules/ISM01
 homepage: true
 image: doc/img/20191128_005455.jpg
 images:
-- doc/img/20191128_005344.jpg
 - doc/img/20191128_005455.jpg
+- doc/img/20191128_005344.jpg
 - doc/img/ISM01A_top_big.png
 - doc/img/ISM01A_QRcode.png
 - doc/img/ISM01A_bot_big.png
