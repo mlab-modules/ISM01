@@ -8,7 +8,7 @@ github_branches:
 github_repo: ISM01
 github_url: https://github.com/mlab-modules/ISM01
 homepage: true
-title_image: doc/img/ISM01A_top_big.png
+image: doc/img/20191128_005455.jpg
 images:
 - doc/img/20191128_005455.jpg
 - doc/img/20191128_005344.jpg
@@ -38,3 +38,4 @@ tags:
 - mlab-rf
 - siliconlabs
 title: ISM01
+title_image: doc/img/ISM01A_top_big.png
