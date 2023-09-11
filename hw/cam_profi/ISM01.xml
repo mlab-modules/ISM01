@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/ISM01.kicad_sch</source>
-    <date>Fri Jul 21 03:29:21 2023</date>
-    <tool>Eeschema 7.0.5.1-1-g8f565ef7f0-dirty-deb11</tool>
+    <date>Mon Sep 11 00:44:41 2023</date>
+    <tool>Eeschema 7.0.7-7.0.7~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>ISM01</title>
