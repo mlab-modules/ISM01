@@ -26,7 +26,7 @@ issues: 5
 mark: 80
 mod_ibom: hw/cam_profi/ISM01-ibom.html
 mod_scheme: doc/gen/ISM01-schematic.pdf
-status: 0
+status: 2
 tags:
 - sik
 - datalink
