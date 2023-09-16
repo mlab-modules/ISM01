@@ -10,16 +10,16 @@ github_url: https://github.com/mlab-modules/ISM01
 homepage: true
 image_title: doc/img/20191128_005455.jpg
 images:
-- doc/img/20191128_005455.jpg
 - doc/img/20191128_005344.jpg
+- doc/img/20191128_005455.jpg
+- doc/img/ISM01A_top_big.png
+- doc/img/ISM01A_QRcode.png
+- doc/img/ISM01A_bot_big.png
 - doc/gen/img/ISM01-bottom.png
 - doc/gen/img/ISM01-top.png
-- doc/img/ISM01A_top_big.png
-- doc/img/ISM01A_bot_big.png
-- doc/img/ISM01A_QRcode.png
 - doc/gen/ISM01-schematic.svg
-- doc/gen/img/ISM01-bottom.svg
 - doc/gen/img/ISM01-top.svg
+- doc/gen/img/ISM01-bottom.svg
 - hw/cam_profi/assembly/ISM01-assembly_page_02.svg
 - hw/cam_profi/assembly/ISM01-assembly_page_01.svg
 issues: 5
@@ -45,4 +45,4 @@ tags:
 - siliconlabs
 - comm-rf
 title: ISM01
-updated: '2023-09-11T00:45:32.310108+00:00'
+updated: '2023-09-16T16:03:59.410446+00:00'
