@@ -5,6 +5,10 @@ description: The MLAB ISM01A is a high-performance wireless transceiver module b
 github_branch: ISM01A
 github_branches:
 - ISM01A
+github_description: The MLAB ISM01A is a high-performance wireless transceiver module
+  based on the Si4463 chip. It operates on 433 or 868 MHz frequencies, ideal for robust,
+  long-distance data transmission in applications like remote control, data links,
+  and wireless sensor networks.
 github_repo: ISM01
 github_url: https://github.com/mlab-modules/ISM01
 homepage: true
@@ -46,4 +50,4 @@ tags:
 - siliconlabs
 - comm-rf
 title: ISM01
-updated: '2023-09-16T23:01:20.554290+00:00'
+updated: '2023-09-17T11:35:03.943852+00:00'
