@@ -1,4 +1,4 @@
-# ISM01 - Si4463 EZRadioPRO Transceiver
+# ISM01 - Si1060 EZRadioPRO Transceiver
 
 The ISM01 is a high-performance wireless transceiver designed for long-distance data transmission. The module is based on the [Si4463 chip](https://www.silabs.com/wireless/proprietary/ezradiopro-sub-ghz-ics/device.si4463?tab=specs) from Silicon Labs, which is part of the EZRadioPRO family. With its wide frequency range and output power, it is ideal for applications that require robust and reliable wireless communication. 
 
@@ -16,12 +16,12 @@ ISM01A can operate on the open 433 or 868 MHz frequencies, which are popular in 
 - Power supply: 5-12V with integrated 3.3V stabilizer
 - Communication: UART, SPI, GPIO
 - Accessible GPIO signals directly from the transceiver
-- Status indication: Two LED diodes controlled from the Si chip
-- Antenna connectors: MCX for RX and TX antennas. For bidirectional communication with a single antenna, it is recommended to connect the [RFSWITCH module](www.mlab.cz/module/RFSWITCH01/), which serves as an RF switch and enables MIMO 2x2 support. ISM01A is able to control the RFSWITCH module through GPIO pins
+- Status indication: Two LEDs controlled from the Si chip
+- Antenna connectors: MCX for RX and TX antennas. For bidirectional communication with a single antenna, connecting the [RFSWITCH module](www.mlab.cz/module/RFSWITCH01/) is recommended, which serves as an RF switch and enables MIMO 2x2 support. ISM01A can control the RFSWITCH module through GPIO pins
 
 ## Possible Applications
 
-The MLAB ISM01A module with the Si4463 transceiver is suitable for a wide range of applications. It can be used in areas such as:
+The MLAB ISM01A module with the Si4463 transceiver is suitable for various applications. It can be used in areas such as:
 
 - **Remote Control**: The module can be used for wireless control of various devices, such as drones, RC cars, or home automation.
 - **Data Links**: With prepared firmware, the module can function as a [SiK data communication link](https://ardupilot.org/copter/docs/common-sik-telemetry-radio.html), which can transmit [MAVLink packets](https://mavlink.io/en/). MAVLink is a protocol designed for communication with unmanned vehicles and is supported by the most widespread autopilots Ardupilot and PX4. This is ideal for applications that require wireless data transmission.
