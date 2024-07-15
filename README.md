@@ -1,6 +1,6 @@
 # ISM01 - Si1060 EZRadioPRO Transceiver
 
-The ISM01 is a high-performance wireless transceiver designed for long-distance data transmission. The module is based on the [Si4463 chip](https://www.silabs.com/wireless/proprietary/ezradiopro-sub-ghz-ics/device.si4463?tab=specs) from Silicon Labs, which is part of the EZRadioPRO family. With its wide frequency range and output power, it is ideal for applications that require robust and reliable wireless communication. 
+The ISM01 is a high-performance wireless transceiver designed for long-distance data transmission. The module is based on the [Si4463 chip](https://www.silabs.com/wireless/proprietary/ezradiopro-sub-ghz-ics/device.si4463?tab=specs) from Silicon Labs, which is part of the EZRadioPRO family. With its wide frequency range and output power, it is ideal for robust and reliable wireless communication applications. 
 
 ISM01A can operate on the open 433 or 868 MHz frequencies, which are popular in many applications.
 
@@ -9,7 +9,7 @@ ISM01A can operate on the open 433 or 868 MHz frequencies, which are popular in 
 
 ## Parameters
 
-- Based on the Si4463 chip
+- Based on the Si1060 microcontroller integrating the Si4463 transceiver
 - Chip frequency range: 142 to 1050 MHz, with the ability to operate on the open 433 or 868 MHz frequencies
 - Chip output power: -20 to 20 dBm
 - The Si4463 chip includes a programmable block capable of controlling radio settings and supports the SPI interface
