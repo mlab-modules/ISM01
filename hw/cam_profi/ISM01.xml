@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/ISM01.kicad_sch</source>
-    <date>Mon Sep 11 00:44:41 2023</date>
-    <tool>Eeschema 7.0.7-7.0.7~ubuntu23.04.1</tool>
+    <date>2025-02-03T21:22:07+0000</date>
+    <tool>Eeschema 8.0.8+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>ISM01</title>
@@ -11,8 +11,8 @@
         <rev>ISM01A</rev>
         <date>%F</date>
         <source>ISM01.kicad_sch</source>
-        <comment number="1" value="ISM radio transiever"/>
-        <comment number="2" value="LORA support"/>
+        <comment number="1" value="Sub-GHz ISM radio transiever"/>
+        <comment number="2" value="Modulation: OOK, (G)FSK, and 4(G)FSK&#xA;Up to +20 dBm output power"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
         <comment number="5" value=""/>
@@ -29,11 +29,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984812875079b91f8bbd</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984812875079b91f8bbd"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c000de6</tstamps>
     </comp>
@@ -42,11 +46,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005562302c</tstamps>
     </comp>
@@ -55,11 +63,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984812875079b91f8bbd</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984812875079b91f8bbd"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c000f16</tstamps>
     </comp>
@@ -68,11 +80,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b2e</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b2e"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c00954b</tstamps>
     </comp>
@@ -81,11 +97,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984812875079b91f8bbd</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984812875079b91f8bbd"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c000f72</tstamps>
     </comp>
@@ -94,11 +114,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b2e</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b2e"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c02b837</tstamps>
     </comp>
@@ -107,11 +131,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b32</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b32"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c00962c</tstamps>
     </comp>
@@ -120,11 +148,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b32</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b32"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c02b83e</tstamps>
     </comp>
@@ -133,11 +165,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b2f</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b2f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c009674</tstamps>
     </comp>
@@ -146,11 +182,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b2f</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b2f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c02b845</tstamps>
     </comp>
@@ -159,11 +199,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b2f</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b2f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c00905d</tstamps>
     </comp>
@@ -172,11 +216,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b28</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b28"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c02f0ba</tstamps>
     </comp>
@@ -185,11 +233,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984812875079b91f8ba2</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984812875079b91f8ba2"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c02f00e</tstamps>
     </comp>
@@ -198,11 +250,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b49</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b49"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c06acb5</tstamps>
     </comp>
@@ -211,11 +267,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b37</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b37"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c04d0d1</tstamps>
     </comp>
@@ -224,11 +284,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c06acbc</tstamps>
     </comp>
@@ -237,11 +301,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b3b</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c04d331</tstamps>
     </comp>
@@ -250,11 +318,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984812875079b91f8bbd</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984812875079b91f8bbd"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c06acc3</tstamps>
     </comp>
@@ -263,11 +335,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c04d39d</tstamps>
     </comp>
@@ -276,11 +352,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984812875079b91f8bbd</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984812875079b91f8bbd"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c04d40b</tstamps>
     </comp>
@@ -288,6 +368,11 @@
       <value>NFM21PC105</value>
       <footprint>Mlab_L:FIR1</footprint>
       <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb</datasheet>
+      <fields>
+        <field name="Footprint">Mlab_L:FIR1</field>
+        <field name="Datasheet">http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb</field>
+        <field name="Description"/>
+      </fields>
       <libsource lib="Device" part="EMI_Filter_C" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -299,11 +384,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b49</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b49"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c15aa76</tstamps>
     </comp>
@@ -312,11 +401,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b49</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b49"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c1788b4</tstamps>
     </comp>
@@ -325,11 +418,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b49</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b49"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c17fcf0</tstamps>
     </comp>
@@ -338,11 +435,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b49</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b49"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c17fd00</tstamps>
     </comp>
@@ -351,11 +452,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b49</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b49"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c187d33</tstamps>
     </comp>
@@ -364,11 +469,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b49</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b49"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c187d43</tstamps>
     </comp>
@@ -377,11 +486,15 @@
       <footprint>Mlab_D:Diode-MiniMELF_Standard</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f88ac</field>
+        <field name="Footprint">Mlab_D:Diode-MiniMELF_Standard</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_D" part="D_ZENER" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f88ac"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="D? SO* SM*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005b4de0b5</tstamps>
     </comp>
@@ -390,11 +503,15 @@
       <footprint>Mlab_D:LED_1206</footprint>
       <fields>
         <field name="UST_ID">5c70984412875079b91f8896</field>
+        <field name="Footprint">Mlab_D:LED_1206</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="LED" description=""/>
       <property name="UST_ID" value="5c70984412875079b91f8896"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c1996b5</tstamps>
     </comp>
@@ -403,17 +520,26 @@
       <footprint>Mlab_D:LED_1206</footprint>
       <fields>
         <field name="UST_ID">5c70984412875079b91f8895</field>
+        <field name="Footprint">Mlab_D:LED_1206</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="LED" description=""/>
       <property name="UST_ID" value="5c70984412875079b91f8895"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c199c16</tstamps>
     </comp>
     <comp ref="J1">
       <value>JUMP_3X2</value>
       <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x03</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_Jumpers" part="JUMP_3X2" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -425,6 +551,9 @@
       <footprint>Mlab_CON:SMA6251A13G50</footprint>
       <fields>
         <field name="UST_ID">5c70984412875079b91f87ac</field>
+        <field name="Footprint">Mlab_CON:SMA6251A13G50</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_CONNECTORS" part="SMA" description=""/>
       <property name="UST_ID" value="5c70984412875079b91f87ac"/>
@@ -438,6 +567,9 @@
       <footprint>Mlab_CON:SMA6251A13G50</footprint>
       <fields>
         <field name="UST_ID">5c70984412875079b91f87ac</field>
+        <field name="Footprint">Mlab_CON:SMA6251A13G50</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_CONNECTORS" part="SMA" description=""/>
       <property name="UST_ID" value="5c70984412875079b91f87ac"/>
@@ -449,6 +581,11 @@
     <comp ref="J4">
       <value>JUMP_3X2</value>
       <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x03</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_Jumpers" part="JUMP_3X2" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -458,6 +595,11 @@
     <comp ref="J6">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -467,6 +609,11 @@
     <comp ref="J7">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -476,6 +623,11 @@
     <comp ref="J8">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -485,6 +637,11 @@
     <comp ref="J9">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -494,6 +651,11 @@
     <comp ref="J10">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -503,6 +665,11 @@
     <comp ref="J11">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -512,6 +679,11 @@
     <comp ref="J12">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -521,6 +693,11 @@
     <comp ref="J13">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -530,6 +707,11 @@
     <comp ref="J14">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -539,6 +721,11 @@
     <comp ref="J15">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -548,6 +735,11 @@
     <comp ref="J16">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -557,6 +749,11 @@
     <comp ref="J17">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -566,6 +763,11 @@
     <comp ref="J18">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -575,6 +777,11 @@
     <comp ref="J19">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -584,6 +791,11 @@
     <comp ref="J20">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -593,6 +805,11 @@
     <comp ref="J21">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -602,6 +819,11 @@
     <comp ref="J22">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -611,6 +833,11 @@
     <comp ref="J23">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -620,6 +847,11 @@
     <comp ref="J24">
       <value>HEADER_1x02</value>
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_1x02</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_1x02" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -629,6 +861,11 @@
     <comp ref="J25">
       <value>HEADER_1x02</value>
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_1x02</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_1x02" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -638,6 +875,11 @@
     <comp ref="J26">
       <value>HEADER_2x01_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -649,11 +891,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f896b</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Small" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f896b"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c008bf2</tstamps>
     </comp>
@@ -662,11 +908,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f896b</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Small" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f896b"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c02b824</tstamps>
     </comp>
@@ -675,11 +925,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984412875079b91f8806</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Small" description=""/>
       <property name="UST_ID" value="5c70984412875079b91f8806"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c008d05</tstamps>
     </comp>
@@ -688,11 +942,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984412875079b91f8806</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Small" description=""/>
       <property name="UST_ID" value="5c70984412875079b91f8806"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c02b82a</tstamps>
     </comp>
@@ -701,11 +959,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984412875079b91f8806</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Small" description=""/>
       <property name="UST_ID" value="5c70984412875079b91f8806"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c008dba</tstamps>
     </comp>
@@ -714,11 +976,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984412875079b91f8806</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Small" description=""/>
       <property name="UST_ID" value="5c70984412875079b91f8806"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c02b830</tstamps>
     </comp>
@@ -727,11 +993,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984412875079b91f8809</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Small" description=""/>
       <property name="UST_ID" value="5c70984412875079b91f8809"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c008e02</tstamps>
     </comp>
@@ -740,11 +1010,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984412875079b91f880d</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Small" description=""/>
       <property name="UST_ID" value="5c70984412875079b91f880d"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c0096c7</tstamps>
     </comp>
@@ -753,11 +1027,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984812875079b91f8ba4</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Small" description=""/>
       <property name="UST_ID" value="5c70984812875079b91f8ba4"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c02ef77</tstamps>
     </comp>
@@ -766,17 +1044,26 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984812875079b91f8ba4</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L_Small" description=""/>
       <property name="UST_ID" value="5c70984812875079b91f8ba4"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c02ee28</tstamps>
     </comp>
     <comp ref="M1">
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Mechanical:MountingHole_3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -786,6 +1073,11 @@
     <comp ref="M2">
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Mechanical:MountingHole_3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -795,6 +1087,11 @@
     <comp ref="M3">
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Mechanical:MountingHole_3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -804,6 +1101,11 @@
     <comp ref="M4">
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Mechanical:MountingHole_3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
@@ -815,6 +1117,9 @@
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8aec</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NPN_BEC" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8aec"/>
@@ -828,6 +1133,9 @@
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8aec</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NPN_BEC" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8aec"/>
@@ -841,11 +1149,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f896b</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f896b"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c009877</tstamps>
     </comp>
@@ -854,11 +1166,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c01a622</tstamps>
     </comp>
@@ -867,11 +1183,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c026087</tstamps>
     </comp>
@@ -880,11 +1200,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c026123</tstamps>
     </comp>
@@ -893,11 +1217,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c0261bd</tstamps>
     </comp>
@@ -906,11 +1234,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c026259</tstamps>
     </comp>
@@ -919,11 +1251,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c0262f7</tstamps>
     </comp>
@@ -932,11 +1268,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c026397</tstamps>
     </comp>
@@ -945,11 +1285,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c026439</tstamps>
     </comp>
@@ -958,11 +1302,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c026605</tstamps>
     </comp>
@@ -971,11 +1319,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c0266ab</tstamps>
     </comp>
@@ -984,11 +1336,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c026757</tstamps>
     </comp>
@@ -997,11 +1353,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c0268f6</tstamps>
     </comp>
@@ -1010,11 +1370,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c0269a6</tstamps>
     </comp>
@@ -1023,11 +1387,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c026a54</tstamps>
     </comp>
@@ -1036,11 +1404,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c026ce4</tstamps>
     </comp>
@@ -1049,11 +1421,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c026d9a</tstamps>
     </comp>
@@ -1062,11 +1438,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c026e4e</tstamps>
     </comp>
@@ -1075,11 +1455,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f8970"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c026f04</tstamps>
     </comp>
@@ -1088,11 +1472,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f898c</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f898c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c1228e3</tstamps>
     </comp>
@@ -1101,11 +1489,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f896b</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f896b"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c0a7e01</tstamps>
     </comp>
@@ -1114,11 +1506,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f897a</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f897a"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c199f7b</tstamps>
     </comp>
@@ -1127,11 +1523,15 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f897a</field>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f897a"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c19a40d</tstamps>
     </comp>
@@ -1140,6 +1540,9 @@
       <footprint>Mlab_IO:SOT-223</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8af9</field>
+        <field name="Footprint">Mlab_IO:SOT-223</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_U" part="LM1117" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8af9"/>
@@ -1154,6 +1557,9 @@
       <datasheet>https://www.silabs.com/documents/public/data-sheets/Si106x-8x.pdf</datasheet>
       <fields>
         <field name="UST_ID">5c70984812875079b91f8ba3</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-36-1EP_5x6mm_P0.5mm_EP3.6x4.1mm_ThermalVias</field>
+        <field name="Datasheet">https://www.silabs.com/documents/public/data-sheets/Si106x-8x.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_IO" part="Si1060-A-GM" description=""/>
       <property name="UST_ID" value="5c70984812875079b91f8ba3"/>
@@ -1167,11 +1573,15 @@
       <footprint>Mlab_XTAL:ABS07</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b1b</field>
+        <field name="Footprint">Mlab_XTAL:ABS07</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Crystal" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b1b"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="Crystal*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c01d017</tstamps>
     </comp>
@@ -1180,11 +1590,15 @@
       <footprint>Crystal:Crystal_SMD_Abracon_ABM3B-4Pin_5.0x3.2mm</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8ba1</field>
+        <field name="Footprint">Crystal:Crystal_SMD_Abracon_ABM3B-4Pin_5.0x3.2mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Crystal_GND24" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8ba1"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ISM01.kicad_sch"/>
+      <property name="ki_fp_filters" value="Crystal*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005c0289a6</tstamps>
     </comp>
@@ -1197,6 +1611,9 @@
       <fields>
         <field name="Reference">C</field>
         <field name="Value">Device_C_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -1210,6 +1627,9 @@
       <fields>
         <field name="Reference">Y</field>
         <field name="Value">Device_Crystal</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -1223,6 +1643,9 @@
       <fields>
         <field name="Reference">Y</field>
         <field name="Value">Device_Crystal_GND24</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -1235,6 +1658,9 @@
       <fields>
         <field name="Reference">C</field>
         <field name="Value">Device_EMI_Filter_C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -1251,6 +1677,9 @@
       <fields>
         <field name="Reference">D</field>
         <field name="Value">Device_LED</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="K" type="passive"/>
@@ -1267,6 +1696,9 @@
       <fields>
         <field name="Reference">L</field>
         <field name="Value">Device_L_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -1277,6 +1709,9 @@
       <fields>
         <field name="Reference">Q</field>
         <field name="Value">Device_Q_NPN_BEC</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="B" type="input"/>
@@ -1291,6 +1726,9 @@
       <fields>
         <field name="Reference">R</field>
         <field name="Value">Device_R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -1301,6 +1739,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">MLAB_CONNECTORS_SMA</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="" type="unspecified"/>
@@ -1316,6 +1757,9 @@
       <fields>
         <field name="Reference">D</field>
         <field name="Value">MLAB_D_D_ZENER</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="K" type="passive"/>
@@ -1326,6 +1770,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">MLAB_HEADER_HEADER_1x02</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="" type="input"/>
@@ -1336,6 +1783,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">MLAB_HEADER_HEADER_2x01_PARALLEL</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="" type="input"/>
@@ -1346,6 +1796,9 @@
       <fields>
         <field name="Reference">U</field>
         <field name="Value">MLAB_IO_Si1060-A-GM</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="P2.7/C2D" type="bidirectional"/>
@@ -1391,6 +1844,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">MLAB_Jumpers_JUMP_3X2</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="2" type="passive"/>
@@ -1405,6 +1861,9 @@
       <fields>
         <field name="Reference">M</field>
         <field name="Value">MLAB_MECHANICAL_HOLE</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="" type="input"/>
@@ -1414,6 +1873,9 @@
       <fields>
         <field name="Reference">U</field>
         <field name="Value">MLAB_U_LM1117</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="GND" type="unspecified"/>
