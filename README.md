@@ -27,7 +27,7 @@ The MLAB ISM01A module with the Si4463 transceiver is suitable for various appli
 - **Data Links**: With prepared firmware, the module can function as a [SiK data communication link](https://ardupilot.org/copter/docs/common-sik-telemetry-radio.html), which can transmit [MAVLink packets](https://mavlink.io/en/). MAVLink is a protocol designed for communication with unmanned vehicles and is supported by the most widespread autopilots Ardupilot and PX4. This is ideal for applications that require wireless data transmission.
 - **Wireless Sensor Networks**: The module can be used to create wireless sensor networks in IoT applications.
 
-> Based on this module, the company [ThunderFly](https://www.thunderfly.cz) has developed a module optimized for use on drones, which combines this ISM01A module, RFSWITCH01A, and additional RF filters and LNA. More information about this TFSIK01 module can be found [here](https://github.com/ThunderFly-aerospace/TFSIK01/).
+> Based on this module, the company [ThunderFly](https://www.thunderfly.cz) has developed a [TFSIK01](https://docs.thunderfly.cz/avionics/TFSIK01/) optimized for use on drones, which combines this ISM01A module, [RFSWITCH01](https://mlab.cz/module/RFSWITCH01/), and additional RF filters and LNA. More information about this TFSIK01 module can be found [here](https://github.com/ThunderFly-aerospace/TFSIK01/).
 
 ## Links to Related Resources
 
